@@ -1,0 +1,333 @@
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.deps.json
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.runtimeconfig.json
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.exe
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.deps.json
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.runtimeconfig.json
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.pdb
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.pdb
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.dll.config
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.AssemblyInfo.cs
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.csproj.CopyComplete
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.pdb
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.genruntimeconfig.cache
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\Boris\Desktop\git book system\BookSystem\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.deps.json
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.runtimeconfig.json
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.exe
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.dll.config
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.deps.json
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.runtimeconfig.json
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.Tests.pdb
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.pdb
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\bin\Debug\netcoreapp3.1\BookSystem.dll.config
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.AssemblyInfo.cs
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.csproj.CopyComplete
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.dll
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.pdb
+C:\Users\Boris\Desktop\books-system\BookSystem.Tests\obj\Debug\netcoreapp3.1\BookSystem.Tests.genruntimeconfig.cache
